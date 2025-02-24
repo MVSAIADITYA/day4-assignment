@@ -118,4 +118,4 @@ bash
 Copy
 git push origin feature-gcp-ci
 8. Create a Pull Request to Merge feature-gcp-ci into main
-After pushing your feature branch, go to your Git repository (e.g., GitHub) and create a pull request (PR) to merge feature-gcp-ci into the main branch. This will trigger CircleCI to run the pipeline and deploy to Google Compute Engine after successful tests.
+After pushing your feature branch, go to your Git repository (e.g., GitHub) and create a pull request (PR) to merge feature-gcp-ci into the main branch. This will trigger CircleCI to run the pipeline and deploy to Google Compute Engine after successful tests.god
